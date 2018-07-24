@@ -1,0 +1,36 @@
+article.question{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+aside.question-tile{
+	padding: 20px;
+}
+aside.question-tile div.tile-heading{
+	height: 50px;
+	line-height: 50px;
+	font-size: 25px;
+}
+aside.question-tile div.tile-heads-holder{
+	padding: 20px;
+}
+aside.question-tile div.tile-heads-holder div.tile-heads{
+	font-weight: bold;
+	height: 60px;
+	cursor: pointer;
+	text-align: center;
+}
+
+div.tile-heads-question{
+	height: 50px;
+	line-height: 50px;
+	max-width: 50px;
+	width: 50px;
+	text-align: center;
+
+}
+
+.tile-active{
+	color:white;
+	border-radius: 25px;
+}
